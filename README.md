@@ -35,12 +35,20 @@
 
 ## Top Repositories
 
-<a href="https://github.com/parmeetnarang2812/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github.com/parmeetnarang2812/TSF-Task-3-Payment-Gateway-Integration?username=parmeetnarang2812&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/parmeetnarang2812/parmeetnarang2812.github.io">
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github.com/parmeetnarang2812/wcat?username=parmeetnarang2812&repo=parmeetnarang2812.github.io&theme=buefy" />
 </a>
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a> -->
 <br />
 <br /> 
 
