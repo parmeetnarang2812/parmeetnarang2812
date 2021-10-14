@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Parmeet 👋
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Data Structure & Algorithms[JAVA] and Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything here
-- 📫 How to reach me: ...
+- 💬 Ask me about anything [here](https://github.com/parmeetnarang2812/parmeetnarang2812/issues)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+
 
 ### Connect with me:
 
