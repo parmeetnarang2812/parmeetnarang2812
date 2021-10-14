@@ -28,8 +28,8 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parmeetnarang2812&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="parmeet's github stats" /></a>  
-<a href="https://github.com/parmeetnarang2812/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetnarang2812&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=parmeetnarang2812&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="parmeet's github stats" /></a>  
+<a href="https://github.com/parmeetnarang2812/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetnarang2812&layout=compact&theme=buefy&hide_border=true" /></a>
 <br />
 <br />
 
