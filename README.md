@@ -26,9 +26,9 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/parmeet-narang/" target="_blank"><img alt="LinkedIn" align="left" width="26px" title="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/parmeet-narang/" target="_blank"><img align="left" width="26px" title="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/narang_parmeet" target="_blank"><img alt="Twitter" title="Twitter" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/narang_parmeet" target="_blank"><img align="left" width="26px" title="Twitter"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 <br />
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=parmeetnarang2812&label=Stalker%20Alert&color=0e75b6&style=flat" alt="parmeetnarang2812" /> </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=parmeetnarang2812&label=Stalker%20Alert&color=0e75b6&style=flat" alt="parmeetnarang2812" /> </p> -->
