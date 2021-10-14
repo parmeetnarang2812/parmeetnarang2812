@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Data Structure & Algorithms[JAVA] and Web Development
 - 💬 Ask me about anything [here](https://github.com/parmeetnarang2812/parmeetnarang2812/issues)
 - 😄 Pronouns: She/Her
-<br />
 
 
 ### Languages and Tools:
@@ -26,7 +25,6 @@
 </a> 
 <a href="https://www.linkedin.com/in/parmeet-narang/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=parmeetnarang2812&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="parmeet's github stats" /></a>  
