@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Parmeet Kaur Narang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/parmeet-narang/]
-[<img align="left" alt="Parmeet Kaur Narang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/narang_parmeet]
-
+<a href="https://twitter.com/narang_parmeet" target="_blank"><img alt="Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> <a href="[https://www.linkedin.com/in/parmeet-narang/" target="_blank"><img alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br />
 
 ### Languages and Tools:
