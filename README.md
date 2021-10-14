@@ -28,6 +28,20 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parmeetnarang2812&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="amisha's github stats" /></a>  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parmeetnarang2812&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="parmeet's github stats" /></a>  
 <a href="https://github.com/parmeetnarang2812/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetnarang2812&layout=compact&theme=buefy&hide_border=true" /></a>
+<br />
+<br />
+
+## Top Repositories
+
+<a href="https://github.com/parmeetnarang2812/github-readme-stats">
+  <img align="center" src="https://github.com/parmeetnarang2812/TSF-Task-3-Payment-Gateway-Integration?username=parmeetnarang2812&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/parmeetnarang2812/parmeetnarang2812.github.io">
+  <img align="center" src="https://github.com/parmeetnarang2812/wcat?username=parmeetnarang2812&repo=parmeetnarang2812.github.io&theme=buefy" />
+</a>
+<br />
+<br /> 
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=parmeetnarang2812&label=Stalker%20Alert&color=0e75b6&style=flat" alt="parmeetnarang2812" /> </p>
