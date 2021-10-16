@@ -21,10 +21,6 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/narang_parmeet" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/parmeet-narang/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 [![Linkedin Badge](https://img.shields.io/badge/-ParmeetKaurNarang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parmeet-narang/)](https://www.linkedin.com/in/parmeet-narang/)
 [![Twitter Badge](http://img.shields.io/badge/-@narang_parmeet?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/narang_parmeet)](https://twitter.com/narang_parmeet) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:parmeetnarang28@gmail.com)](mailto:parmeetnarang28@gmail.com)
