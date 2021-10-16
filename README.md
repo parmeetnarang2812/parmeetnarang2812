@@ -23,7 +23,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ParmeetKaurNarang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parmeet-narang/)](https://www.linkedin.com/in/parmeet-narang/)
 [![Twitter Badge](http://img.shields.io/badge/-@narang_parmeet-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/narang_parmeet)](https://twitter.com/narang_parmeet) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:parmeetnarang28@gmail.com)](mailto:parmeetnarang28@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-parmeetnarang28@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:parmeetnarang28@gmail.com)](mailto:parmeetnarang28@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=parmeetnarang2812)
 <br />
