@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Data Structure & Algorithms[JAVA] and Web Development
-- 💬 Ask me about anything [here](https://github.com/parmeetnarang2812/parmeetnarang2812/issues)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/parmeet-narang/)
 - 😄 Pronouns: She/Her
 
 
@@ -22,7 +22,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ParmeetKaurNarang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parmeet-narang/)](https://www.linkedin.com/in/parmeet-narang/)
-[![Twitter Badge](http://img.shields.io/badge/-@narang_parmeet?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/narang_parmeet)](https://twitter.com/narang_parmeet) 
+[![Twitter Badge](http://img.shields.io/badge/-@narang_parmeet-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/narang_parmeet)](https://twitter.com/narang_parmeet) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:parmeetnarang28@gmail.com)](mailto:parmeetnarang28@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=parmeetnarang2812)
