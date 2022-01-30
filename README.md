@@ -33,5 +33,3 @@
 <a href="https://github.com/parmeetnarang2812/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetnarang2812&layout=compact&theme=buefy&hide_border=true" /></a>
 <br />
 <br />
-
-<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=parmeetnarang2812&label=Stalker%20Alert&color=0e75b6&style=flat" alt="parmeetnarang2812" /> </p> -->
