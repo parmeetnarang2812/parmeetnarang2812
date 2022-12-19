@@ -1,7 +1,7 @@
 ### Hi there, I'm Parmeet 👋
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Data Structure & Algorithms[JAVA] and Web Development
+- 🌱 I’m currently learning Data Structure & Algorithms and Web Development
 - 💬 Ask me about anything [here](https://github.com/parmeetnarang2812/parmeetnarang2812/issues)
 - 😄 Pronouns: She/Her
 - ⚡ Fun Fact: I am a Potter Head
