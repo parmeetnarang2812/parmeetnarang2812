@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Structures & Algorithms and Web Development
 - 💬 Ask me about anything [here](https://github.com/parmeetnarang2812/parmeetnarang2812/issues)
 - 😄 Pronouns: She/Her
-- ⚡ Fun Fact: I am a Potter Head
+- ⚡ Fun Fact: I am a Potter Head 🪄
 
 
 ### Languages and Tools:
